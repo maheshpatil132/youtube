@@ -242,6 +242,9 @@ hr{
     body{
         padding-left: 0;
     }
+    body.active{
+          overflow: hidden;
+      }
     .header{
       left: -110%;
     }
@@ -282,6 +285,7 @@ hr{
         color: white;
           padding: 0.7rem;
       }
+    
       
   }
 
