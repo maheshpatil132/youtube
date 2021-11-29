@@ -300,6 +300,9 @@ hr{
     html{
         font-size: 53%;
     }
+    .container .main_container .video_container .video{
+     height:19rem;
+    }
 }
 @media(max-width:460px){
     html{
