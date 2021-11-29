@@ -230,6 +230,7 @@ hr{
     background-color: lightgrey;
 }
 .container .main_container .video_container .video_info i{
+    margin-left:auto;
     font-size: 2rem;
 }
 .container .main_container .video_container .video_info .channel_name h4{
